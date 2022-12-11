@@ -19,7 +19,7 @@ const Sectors = [
     },
     {
         group: 'Manufacturing',
-        title: 'Bakery &amp; confectionery products',
+        title: 'confectionery products',
         url: 'bakery',
     },
     {
