@@ -1,6 +1,6 @@
 # react_coding_challenge
 
-To start the frontend 
+### To start the frontend 
 
 ```
 cd coding_challenge
@@ -12,7 +12,7 @@ npm run dev
 ```
 
 
-To start the backend
+### To start the backend
 it is optional the frontend works perfectly by its own but to store the data to the database everytime save is clicked use
 
 ```
